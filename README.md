@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarinaDVI
-- 👀 I’m interested in learning to code
+- 👀 I’m interested in learning code
 - 🌱 I’m currently learning web development with JAVA, C and others like SQL.
 - 📫 How to reach me? Simply PMe...
 
